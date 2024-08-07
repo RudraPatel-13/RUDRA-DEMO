@@ -1,3 +1,3 @@
 # RUDRA-DEMO
-my first git repository
+my first git repository.
 Author - Rudra Patel
